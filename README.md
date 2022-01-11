@@ -1,2 +1,5 @@
-# Detecting-COVID-19-Related-Fake-News-with-Neural-Networks
- 
+# Detecting COVID-19 Related Fake News with Neural Networks
+This is the final group project of COMP550 Natural Language Processing.
+Completed with Minzhe Feng and Bianca Gilchrist.
+## Abstract
+Incorrect information about the currently ongoing COVID-19 pandemic has caused confusion among the general public and the spreading of fake news on social media. It has come to our attention that such misinformation has impacted individuals’ responses and actions towards the pandemic. While media nowadays allow for rapid information exchange, we aim to clear the platform so that valid, creditable, and official truths can be conveyed to the general public without intervention. In our study, we develop models to perform such a task using various approaches such as bag-of-words, logistic regression, and convolutional neural networks. We have found that a BERT-based approach leads to the most outstanding classification performance of approximately 95% testing accuracy, while a hybrid CNN-RNN model also shows competitiveness against other models with a test accuracy of roughly 93.6%.
